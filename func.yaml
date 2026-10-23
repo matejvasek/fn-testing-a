@@ -4,5 +4,5 @@ specVersion: 0.36.0
 name: fn-testing-a
 runtime: node
 registry: image-registry.openshift-image-registry.svc:5000/admin-playground
-namespace: admin-playground
+namespace: admin-playground-x
 created: 2026-10-23T19:08:32.478454372Z
